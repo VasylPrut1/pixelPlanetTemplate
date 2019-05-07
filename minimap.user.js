@@ -5,8 +5,8 @@
 // @description  PP Minimap Zone
 // @author       ConsoleBey#9737
 // @match        https://pixelplanet.fun/*
-// @updateURL    https://raw.githubusercontent.com/TheGorox/pixelPlanetTemplate/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/TheGorox/pixelPlanetTemplate/master/minimap.user.js
+// @updateURL    https://raw.githubusercontent.com/VasylPrut1/pixelPlanetTemplate/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/VasylPrut1/pixelPlanetTemplate/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -16,7 +16,7 @@ Number.prototype.between = function(a, b) {
   return this > min && this < max;
 };
 var range = 25;
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/TheGorox/pixelPlanetTemplate/master/';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/VasylPrut1/pixelPlanetTemplate/master/';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL

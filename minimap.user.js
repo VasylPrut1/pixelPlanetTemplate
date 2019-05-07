@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Sha Minimap
+// @name         Skoropadskyi
 // @namespace    http://tampermonkey.net/
 // @version      1.2.6
 // @description  PP Minimap Zone
